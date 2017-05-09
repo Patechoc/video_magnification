@@ -6,6 +6,8 @@ The [official website still here](http://people.csail.mit.edu/mrub/vidmag/) (sti
 
 The [TED talk you should defintely look at :)](https://www.ted.com/talks/michael_rubinstein_see_invisible_motion_hear_silent_sounds_cool_creepy_we_can_t_decide#t-778283)
 
+More videos shared on [Michael Rubinstein's Youtube account](https://www.youtube.com/user/mikirubinstein/videos)
+
 The few demos show:
 
 * a man face changing color from white to red allowing to measure his heart beat
